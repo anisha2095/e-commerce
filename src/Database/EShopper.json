@@ -1,0 +1,109 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Jeans",
+        "price": "5000",
+        "discount":"50",
+        "image":	"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      },
+      {
+        "name": "shirtEdited",
+        "price": "500",
+        "id": 9,
+        "image":	"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      },
+      {
+        "name": "shirt",
+        "price": "10000",
+        "id": 11,
+        "image":	"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      },
+      {
+        "name": "jeans",
+        "price": "30000",
+        "id": 13,
+        "image":	"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      },
+      {
+        "name": "t-shirt",
+        "price": "800",
+        "id": 14,
+        "image":	"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      },
+      {
+        "name": "kurti",
+        "price": "700",
+        "id": 15,
+        "image":	"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      },
+      {
+        "name": "kurti",
+        "price": "4000",
+        "id": 16,
+        "image":	"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      },
+      {
+        "name": "jeans ",
+        "price": "4000",
+        "id": 17,
+        "image":	"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      }
+    ],
+    
+    "category": [
+      {
+        "id": 1,
+        "catName": "Mens"
+      },
+      {
+        "id": 2,
+        "catName": "Womens"
+      },
+      {
+        "id": 3,
+        "catName": "Kids"
+      },
+      {
+        "id": 4,
+        "catName": "Bags"
+      },
+      {
+        "id": 5,
+        "catName": "Shoes"
+      },
+      {
+        "id": 6,
+        "catName": "Interior"
+      }
+    ],
+
+    "brand": [
+      {
+        "name": "Reebok"
+      },
+      {
+        "name": "Biba"
+      },
+      {
+        "name": "Lee"
+      }
+    ],
+    "users": [
+      {
+        "email": "efsfs@efesdfs",
+        "password": "sfsdfs",
+        "id": 3
+      },
+      {
+        "email": "efsfs@efesdfs",
+        "password": "skjdkjhdugduygydgsda",
+        "id": 4
+      },
+      {
+        "email": "anishakumarijsr2095@gmail.com",
+        "password": "fdsfdsf",
+        "id": 5
+      }
+    ]
+  }
